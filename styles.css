@@ -1,0 +1,38 @@
+#tbl_all {
+    color: white;
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-family: italic;
+    font-size: 30px;
+}
+body {
+    background: #c7b39b url(12345.jpg); /* Цвет фона и путь к файлу */
+    color: #fff;
+}
+
+head {
+    background: #c7b39b url(123.jpg); /* Цвет фона и путь к файлу */
+    color: #fff;
+}
+.parent	{
+    margin: auto;
+    color: white;
+    width: 200px;
+	height: 50px;
+	border: 1px solid cornflowerblue;
+    color: cornflowerblue;
+    background-color: cornflowerblue;
+}
+.child {
+    margin: auto;
+	width: 200px;
+	height: 50px;
+	border: 1px solid black;
+    background-color: black;
+    color: black;
+}
+a {
+    color: white;
+}
